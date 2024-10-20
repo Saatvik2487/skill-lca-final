@@ -39,15 +39,15 @@ a.icon-link:hover {
 
 /* space above carousel */
 .container {
-    margin-top: 70px;
+    margin-top: 10px;
 }
 
-/* Carousel Image Styling */
+/* carousel image */
 .carousel-item img {
-    width: 100%;           
-    height: 400px;        
+    width: 363px;           
+    height: 483px;        
     object-fit: contain;   
-    margin: 0 auto;        
+    margin-bottom: 10px;        
     border-radius: 10px;   
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);  
     background-color: #391313;  
@@ -70,13 +70,12 @@ a.icon-link:hover {
     border-radius: 15px 15px 0 0;
 }
 
-/* Email Link Styling */
+/* email icon */
 a.icon-link.d-flex {
     margin-top: 30px;
     padding: 10px 20px;
     background-color: #727878;
     border-radius: 5px;
-    color: white;
     transition: background-color 0.2s;
 }
 
@@ -84,7 +83,7 @@ a.icon-link.d-flex:hover {
     background-color: #36ba34;
 }
 
-/* Gallery Section */
+
 #gallery {
     text-align: center;
     margin-top: 50px;
