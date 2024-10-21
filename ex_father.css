@@ -99,6 +99,14 @@ a.icon-link.d-flex:hover {
     border-radius: 30px;
 }
 
+#gallery img{
+    max-height:400px;
+    max-width:500px;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    border-radius: 30px;
+}
+
 #gallery h1 {
     font-weight: 700;
     margin-bottom: 20px;
