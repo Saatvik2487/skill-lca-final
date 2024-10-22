@@ -52,11 +52,12 @@ a.icon-link {
     font-size: 1.1rem;
     color: rgb(189, 233, 153);
     text-decoration: none;
-    transition: color 0.3s;
+    transition: 0.3s;
 }
 
 a.icon-link:hover {
     color: aqua;
+    transform: scale(1.4);
 }
 
 /* space above carousel */
@@ -71,8 +72,9 @@ a.icon-link:hover {
     object-fit: contain;   
     margin-bottom: 10px;        
     border-radius: 10px;   
-    box-shadow: 0 4px 8px rgba(0.1, 0.1, 0.1, 0.1);  
+    box-shadow: 0 4px 8px rgba(0.1, 0.1, 0.1, 0.1s);  
     background-color: #e6ffff;  
+    
    
 }
 
@@ -94,7 +96,8 @@ a.icon-link:hover {
 
 #mortem
 {
-    opacity: 0.3;
+    opacity: 0.2;
+    text-align: center;
 }
 
 /* email icon */
