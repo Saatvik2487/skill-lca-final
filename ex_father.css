@@ -57,7 +57,7 @@ a.icon-link {
 
 a.icon-link:hover {
     color: aqua;
-    transform: scale(1.4);
+    transform : scale(1.4);
 }
 
 /* space above carousel */
@@ -111,6 +111,7 @@ a.icon-link.d-flex {
 
 a.icon-link.d-flex:hover {
     background-color: #36ba34;
+    transform: scale(1);
 }
 
 
